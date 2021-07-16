@@ -20,10 +20,11 @@
 
 title: RAO Physics Social Club
 email: roman.ludwig@usz.ch
-description: >- Static website displaying when & where the RAO pysics social club 
-  gathers to enjoy an after-work beer/drink.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- 
+  Static website displaying when & where the RAO pysics social club gathers to 
+  enjoy an after-work beer/drink.
+baseurl: "/social" # the subpath of your site, e.g. /blog
+url: "https://rao-physics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: rao-physics
 
 # Build settings
